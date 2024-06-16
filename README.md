@@ -23,12 +23,12 @@ To get started with One-App-For-All, follow these steps:
 2. Navigate to the project directory and install the required dependencies:
 
    ```
-   npm install
+   yarn install
    ```
 
 3. Run the application:
    ```
-   npm start
+   yarn start
    ```
 
 ## Usage
