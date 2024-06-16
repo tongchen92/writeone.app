@@ -1,0 +1,303 @@
+{
+  "name": "Techstars",
+  "sections": [
+    {
+      "id": "founder_profile",
+      "title": "Founder Profile",
+      "questions": [
+        {
+          "id": "first_name",
+          "question": "First name *"
+        },
+        {
+          "id": "last_name",
+          "question": "Last name *"
+        },
+        {
+          "id": "contact_email",
+          "question": "Contact email *"
+        },
+        {
+          "id": "title",
+          "question": "Title *",
+          "options": ["CEO", "CTO", "COO", "CPO", "Other"]
+        },
+        {
+          "id": "current_location",
+          "question": "Current location *"
+        },
+        {
+          "id": "linkedin_url",
+          "question": "LinkedIn URL *"
+        },
+        {
+          "id": "twitter_url",
+          "question": "Twitter URL"
+        },
+        {
+          "id": "phone_number",
+          "question": "Phone number"
+        },
+        {
+          "id": "working_full_time",
+          "question": "Working on your startup full-time? *"
+        }
+      ]
+    },
+    {
+      "id": "demographics",
+      "title": "Demographics",
+      "questions": [
+        {
+          "id": "birthdate",
+          "question": "What is your birthdate *"
+        },
+        {
+          "id": "gender_identity",
+          "question": "What is your gender identity *",
+          "options": [
+            "Prefer not to disclose",
+            "Man",
+            "Woman",
+            "Transgender",
+            "Non-Binary/gender-nonconforming",
+            "Prefer to self-describe"
+          ]
+        },
+        {
+          "id": "gender_self_describe",
+          "question": "If 'Prefer to self-describe' is selected, then self-describe"
+        },
+        {
+          "id": "racial_ethnic_minority",
+          "question": "Do you identify as a racial/ethnic minority within your home country? *",
+          "options": [
+            "Prefer not to disclose",
+            "Yes",
+            "No",
+            "Prefer to self-describe"
+          ]
+        },
+        {
+          "id": "racial_ethnic_self_describe",
+          "question": "If 'Prefer to self-describe' is selected, then self-describe"
+        }
+      ]
+    },
+    {
+      "id": "startup_details",
+      "title": "Startup Details",
+      "questions": [
+        {
+          "id": "startup_name",
+          "question": "Startup Name *"
+        },
+        {
+          "id": "startup_url",
+          "question": "Startup URL"
+        },
+        {
+          "id": "founded_year",
+          "question": "What year was your company founded? *"
+        },
+        {
+          "id": "problem",
+          "question": "What problem are you looking to solve? *"
+        },
+        {
+          "id": "solution",
+          "question": "What is your company going to make to solve this problem? *"
+        },
+        {
+          "id": "incorporated",
+          "question": "Is your startup incorporated? *"
+        },
+        {
+          "id": "incorporation_details",
+          "question": "If yes, select where and the corporation type *"
+        },
+        {
+          "id": "industries",
+          "question": "Which industries are relevant to your company? *"
+        },
+        {
+          "id": "restricted_countries",
+          "question": "Are you based, or do you conduct any business activities in the following countries: Russia, North Korea, Iran, Syria, Cuba, Venezuela, or the Crimea, Donetsk, or Luhansk regions of Ukraine? *"
+        },
+        {
+          "id": "product_demo_video",
+          "question": "Product demo video URL"
+        },
+        {
+          "id": "team_intro_video",
+          "question": "Team introduction video URL"
+        },
+        {
+          "id": "pitch_deck_url",
+          "question": "Pitch deck URL"
+        }
+      ]
+    },
+    {
+      "id": "startup_team",
+      "title": "Startup Team",
+      "questions": [
+        {
+          "id": "cofounders",
+          "question": "Add each of your co-founders by providing their name and email."
+        },
+        {
+          "id": "winning_team",
+          "question": "Why is your team a winning team? *"
+        },
+        {
+          "id": "team_location",
+          "question": "Where are the majority (50% or more) of your team members/employees located? *",
+          "options": [
+            "United States",
+            "Canada",
+            "Europe",
+            "Latin America",
+            "Middle East/North Africa",
+            "Asia Pacific",
+            "Other"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "startup_progress",
+      "title": "Startup Progress",
+      "questions": [
+        {
+          "id": "traction_metrics",
+          "question": "Please share any traction metrics you have (280 characters)"
+        },
+        {
+          "id": "revenue",
+          "question": "Do you have revenue? *"
+        },
+        {
+          "id": "revenue_details",
+          "question": "If yes, what was your revenue in each of the past six months? *"
+        },
+        {
+          "id": "funding",
+          "question": "Have you received funding? *"
+        },
+        {
+          "id": "funding_details",
+          "question": "If yes, what are the sources and funding amounts? *"
+        }
+      ]
+    },
+    {
+      "id": "startup_strategy",
+      "title": "Startup Strategy",
+      "questions": [
+        {
+          "id": "business_model",
+          "question": "How do (or will you) make money? How much could you make? *"
+        },
+        {
+          "id": "target_audience",
+          "question": "Who is your target audience? *"
+        },
+        {
+          "id": "competitors",
+          "question": "Who are your competitors or might become competitors? *"
+        },
+        {
+          "id": "competitive_advantage",
+          "question": "What is your competitive advantage? *"
+        },
+        {
+          "id": "timing",
+          "question": "Why is this the right time for your startup? *"
+        },
+        {
+          "id": "customer_acquisition",
+          "question": "What is your customer acquisition strategy? *"
+        },
+        {
+          "id": "next_milestones",
+          "question": "What are your next major milestones? *"
+        }
+      ]
+    },
+    {
+      "id": "additional_info",
+      "title": "Additional Information",
+      "questions": [
+        {
+          "id": "hear_about_techstars",
+          "question": "How did your hear about Techstars? *",
+          "options": [
+            "A Techstars team member recommend I apply",
+            "Mentor/alumni in Techstars network recommended I apply",
+            "Techstars virtual event (AMA’s, Pitch Practice, Office Hours, etc.)",
+            "Techstars event (Start Up Week, Start Up Weekend, demo day)",
+            "Search engine (Google, Bing, etc.)",
+            "Social Media",
+            "Blog or publication",
+            "Other"
+          ]
+        },
+        {
+          "id": "agree_terms",
+          "question": "I agree to Techstars’ Terms of Service and Privacy Policy. *"
+        },
+        {
+          "id": "receive_insights",
+          "question": "I’d like to receive startup insights, resources and event invitations from Techstars."
+        }
+      ]
+    }
+  ],
+  "transform": {
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "contact_email": "contact_email",
+    "title": "title",
+    "current_location": "current_location",
+    "linkedin_url": "linkedin_url",
+    "twitter_url": "twitter_url",
+    "phone_number": "phone_number",
+    "working_full_time": "working_full_time",
+    "birthdate": "birthdate",
+    "gender_identity": "gender_identity",
+    "gender_self_describe": "gender_self_describe",
+    "racial_ethnic_minority": "racial_ethnic_minority",
+    "racial_ethnic_self_describe": "racial_ethnic_self_describe",
+    "startup_name": "startup_name",
+    "startup_url": "startup_url",
+    "founded_year": "founded_year",
+    "problem": "problem",
+    "solution": "solution",
+    "incorporated": "incorporated",
+    "incorporation_details": "incorporation_details",
+    "industries": "industries",
+    "restricted_countries": "restricted_countries",
+    "product_demo_video": "product_demo_video",
+    "team_intro_video": "team_intro_video",
+    "pitch_deck_url": "pitch_deck_url",
+    "cofounders": "cofounders",
+    "winning_team": "winning_team",
+    "team_location": "team_location",
+    "traction_metrics": "traction_metrics",
+    "revenue": "revenue",
+    "revenue_details": "revenue_details",
+    "funding": "funding",
+    "funding_details": "funding_details",
+    "business_model": "business_model",
+    "target_audience": "target_audience",
+    "competitors": "competitors",
+    "competitive_advantage": "competitive_advantage",
+    "timing": "timing",
+    "customer_acquisition": "customer_acquisition",
+    "next_milestones": "next_milestones",
+    "hear_about_techstars": "hear_about_techstars",
+    "agree_terms": "agree_terms",
+    "receive_insights": "receive_insights"
+  }
+}

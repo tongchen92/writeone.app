@@ -1,0 +1,157 @@
+{
+  "name": "Y Combinator",
+  "sections": [
+    {
+      "id": "founders",
+      "title": "Founders",
+      "questions": [
+        {
+          "id": "education",
+          "question": "What is your education background?",
+          "placeholder": "Enter your education background..."
+        },
+        {
+          "id": "work_experience",
+          "question": "What is your work experience?",
+          "placeholder": "Describe your work experience..."
+        },
+        {
+          "id": "linkedin",
+          "question": "Your LinkedIn URL",
+          "placeholder": "Enter your LinkedIn URL..."
+        },
+        {
+          "id": "role",
+          "question": "What is your title, or if you haven’t set it yet, main responsibility?",
+          "placeholder": "Enter your title or main responsibility..."
+        },
+        {
+          "id": "equity",
+          "question": "What percent equity do you have?",
+          "placeholder": "Enter the percent equity you have..."
+        },
+        {
+          "id": "commit",
+          "question": "If accepted to YC, will you commit to working exclusively on this project for the next year?",
+          "placeholder": "Enter your commitment..."
+        },
+        {
+          "id": "hack",
+          "question": "Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.",
+          "placeholder": "Describe your hack..."
+        },
+        {
+          "id": "projects",
+          "question": "Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.",
+          "placeholder": "Describe your projects..."
+        }
+      ]
+    },
+    {
+      "id": "founder_video",
+      "title": "Founder Video",
+      "questions": [
+        {
+          "id": "video",
+          "question": "Please provide a link to your founder video.",
+          "placeholder": "Enter the URL to your founder video..."
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "title": "Company",
+      "questions": [
+        {
+          "id": "company_name",
+          "question": "What is the name of your company?",
+          "placeholder": "Enter your company name..."
+        },
+        {
+          "id": "website",
+          "question": "What is the URL of your company website?",
+          "placeholder": "Enter your company website URL..."
+        }
+      ]
+    },
+    {
+      "id": "progress",
+      "title": "Progress",
+      "questions": [
+        {
+          "id": "milestones",
+          "question": "What are the key milestones you have achieved?",
+          "placeholder": "Describe your milestones..."
+        }
+      ]
+    },
+    {
+      "id": "idea",
+      "title": "Idea",
+      "questions": [
+        {
+          "id": "problem",
+          "question": "What problem are you solving?",
+          "placeholder": "Describe the problem..."
+        },
+        {
+          "id": "solution",
+          "question": "What is your solution?",
+          "placeholder": "Describe your solution..."
+        }
+      ]
+    },
+    {
+      "id": "equity",
+      "title": "Equity",
+      "questions": [
+        {
+          "id": "equity_split",
+          "question": "How is equity divided among founders?",
+          "placeholder": "Describe the equity split..."
+        }
+      ]
+    },
+    {
+      "id": "others",
+      "title": "Others",
+      "questions": [
+        {
+          "id": "additional_info",
+          "question": "Any additional information you would like to provide?",
+          "placeholder": "Enter additional information..."
+        }
+      ]
+    },
+    {
+      "id": "curious",
+      "title": "Curious",
+      "questions": [
+        {
+          "id": "curiosity",
+          "question": "What are you curious about?",
+          "placeholder": "Describe your curiosity..."
+        }
+      ]
+    }
+  ],
+  "transform": {
+    "education": "education",
+    "work_experience": "work_experience",
+    "linkedin": "linkedin",
+    "role": "role",
+    "equity": "equity",
+    "commit": "commit",
+    "hack": "hack",
+    "projects": "projects",
+    "video": "video",
+    "company_name": "company_name",
+    "website": "website",
+    "milestones": "milestones",
+    "problem": "problem",
+    "solution": "solution",
+    "equity_split": "equity_split",
+    "additional_info": "additional_info",
+    "curiosity": "curiosity"
+  }
+}

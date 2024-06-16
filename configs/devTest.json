@@ -1,0 +1,33 @@
+{
+  "name": "DevelopmentTest",
+  "sections": [
+    {
+      "id": "startup_team",
+      "title": "Startup Team",
+      "questions": [
+        {
+          "id": "cofounders",
+          "question": "Add each of your co-founders by providing their name and email."
+        },
+        {
+          "id": "winning_team",
+          "question": "Why is your team a winning team? *"
+        },
+        {
+          "id": "team_location",
+          "question": "Where are the majority (50% or more) of your team members/employees located? *",
+          "options": [
+            "United States",
+            "Canada",
+            "Europe",
+            "Latin America",
+            "Middle East/North Africa",
+            "Asia Pacific",
+            "Other"
+          ]
+        }
+      ]
+    }
+  ],
+  "transform": {}
+}
